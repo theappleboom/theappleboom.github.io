@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I'm Appel Boom (sometimes spelled Apple Boom, it's complicated). I'm doing soulcal things.
+Things might be a bit bland and screwy as I get this up and running with Jekyll. Right now I just want to get my thoughts and info out there.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
