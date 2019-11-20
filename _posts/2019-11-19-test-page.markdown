@@ -3,6 +3,7 @@ layout: post
 title:  "Test Page"
 date:   2019-11-19 12:03:16 -0500
 categories: jekyll update testing
+permalink: /test/
 ---
 Sup peeps
 
