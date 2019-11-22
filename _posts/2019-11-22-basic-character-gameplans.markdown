@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Character Gameplans"
-date:   2019-11-22 15:00:00 -0500
+date:   2019-11-22 00:00:00 -0500
 categories: [guides]
 tags: [beginner, fundamentals, gameplan]
 ---
@@ -41,6 +41,15 @@ Azwel
 <li>Throws</li>
 <li>A+B</li>
 <li>1B - his kicks are non standard</li>
+</ul>
+
+<ul>
+Cassandra (thanks for the correction Dan Highland!)
+<li>AA</li>
+<li>BB</li>
+<li>Throws</li>
+<li>A+B</li>
+<li>2K</li>
 </ul>
 
 <ul>
