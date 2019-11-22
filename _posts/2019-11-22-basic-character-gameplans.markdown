@@ -5,7 +5,17 @@ date:   2019-11-22 00:00:00 -0500
 categories: [guides]
 tags: [beginner, fundamentals, gameplan]
 ---
+<a href="{% post_url 2019-11-21-creating-a-gameplan %}">&laquo; Beginning of the Gameplan Series</a>
+
 So I did some thinking, and I realized that if this is really going to be a beginner's guide, I shouldn't be expecting people to be able to come up with a basic gameplan for nonstandard characters. I'm also DEFINITELY NOT going to ask anyone to "just play Sophitia" or "just play Mitsurugi" to learn the game. I'll be using them for (relatively) simple examples in the future, but beginners should be allowed to play who they want while learning. With that all in mind, here's a list of every basic character's gameplan along with notes for when they differ from the standard gameplan. (I'll also be updating this as DLC is added)
+
+<p>
+  {% for post in site.posts %}
+	{% if post.title == "Building a Gameplan for a Character" %}
+		<a href="{{ post.url }}">{{ post.title }} &raquo;</a>
+	{% endif %}
+  {% endfor %}
+</p>
 
 <ul>
 2B
