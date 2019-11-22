@@ -92,3 +92,11 @@ With that out of the way, here's a basic gameplan, free of charge. 90% of the ca
 Quick note, you might notice that throws and 2K are kind of redundant. I originally just had throws, but I realized that not everyone's BB hits someone on the ground, so 2K hits stubborn people who refuse to get up after a throw. It also is a nice tool in case you're up against a guessing (blue)god who constantly breaks all of your throws perfectly.
 
 This basic gameplan is literally all you need to win a match. It's not particularly good at it, but it is feature complete with no holes. This is the bedrock that every other gameplan will be built upon, going forward. So that's the bare bones of what you need to know. Next time I'll go over building a gameplan for a specific character.
+
+<p>
+  {% for post in site.posts %}
+	{% if post.title == "Basic Character Gameplans" %}
+		<a href="{{ post.url }}">{{ post.title }} &raquo;</a>
+	{% endif %}
+  {% endfor %}
+</p>
