@@ -11,19 +11,22 @@ I want to build a gameplan, so where do I start? Well, what's the goal. To make 
 
 So how do we do damage, let alone 240? We hit them with moves! Then how do we do enough damage? Use good moves! (Academically put, we want to use the best moves available to us to maximize damage potential) What are good moves? I think this here is actually the wrong question, at least when trying to figure things out. Finding good moves is hard, but finding bad moves is easy. So, what are bad moves? There are two kinds of bad moves. Moves that don't do enough damage, and moves that get beat out by other "things." Damage is so easy to look at to the point where I probably don't even need to tell you about it. 70 is better than 20. 10 is better than 5. You get the idea. But how do moves get beat out? Well, ignoring frames for now (to again, keep things simple, but also to avoid the kind of hyperfocus on frame data that can happen a lot), there are three ways to beat out a move, dodging, blocking, and parrying. Let's break these down.
 
-<ul>Dodging Options:
+<ul>
+<b>Dodging Options:</b>
 <li>Duck</li>
 <li>Jump</li>
 <li>Sidestep</li>
 <li>Backstep</li>
 </ul>
 
-<ul>Blocking Options:
+<ul>
+<b>Blocking Options:</b>
 <li>Standing Block</li>
 <li>Crouching Block</li>
 </ul>
 
-<ul>Parrying Options:
+<ul>
+<b>Parrying Options:</b>
 <li>Guard Impact (GI)</li>
 <li>Reversal Edge (RE)</li>
 <li>Auto Guard Impact (auto GI)</li>
@@ -32,47 +35,56 @@ So how do we do damage, let alone 240? We hit them with moves! Then how do we do
 
 So what are the strengths and weaknesses of these options? Let's list what they beat and lose to.
 
-<ul>Duck
+<ul>
+<b>Duck</b>
 <li>Beats: Highs</li>
 <li>Loses to: Mids, Lows</li>
 </ul>
 
-<ul>Jump
+<ul>
+<b>Jump</b>
 <li>Beats: Lows, Throws</li>
 <li>Loses to: Mids, Highs</li>
 </ul>
 
-<ul>Sidestep
+<ul>
+<b>Sidestep</b>
 <li>Beats: Verticals</li>
 <li>Loses to: Horizontals</li>
 </ul>
 
-<ul>Backstep
+<ul>
+<b>Backstep</b>
 <li>Beats: Short Range Moves</li>
 <li>Loses to: Long Range Moves</li>
 </ul>
 
-<ul>Standing Block
+<ul>
+<b>Standing Block</b>
 <li>Beats: Highs, Mids</li>
 <li>Loses to: Throws, Lows</li>
 </ul>
 
-<ul>Crouching Block
+<ul>
+<b>Crouching Block</b>
 <li>Beats: Lows, Throws, Highs</li>
 <li>Loses to: Mids</li>
 </ul>
 
-<ul>Guard Impact
+<ul>
+<b>Guard Impact</b>
 <li>Beats: Normal Moves (in a certain temporal range)</li>
 <li>Loses to: Guard Breaks, Patience, (moves outside the set temporal range)</li>
 </ul>
 
-<ul>Reversal Edge
+<ul>
+<b>Reversal Edge</b>
 <li>Beats: Normal Moves</li>
 <li>Loses to: Guard Breaks, Sidestep, Outlasting Moves (this can get complicated)</li>
 </ul>
 
-<ul>Auto Guard Impact
+<ul>
+<b>Auto Guard Impact</b>
 <li>Beats: Depends on the move</li>
 <li>Loses to: Guard Breaks, Moves that it doesn't parry</li>
 </ul>
@@ -81,7 +93,8 @@ Alright so that's a bit of a list, but if you're reading this, it's probably ful
 
 With that out of the way, here's a basic gameplan, free of charge. 90% of the cast will be able to use this gameplan with no issue, and this is where every single one of my gameplans starts.
 
-<ul>The Basic Gameplan
+<ul>
+<b>The Basic Gameplan</b>
 <li>AA - Beats sidestep and jump</li>
 <li>BB - Beats duck, jump, backstep, and crouching block</li>
 <li>Throws - Beats sidestep and standing block</li>

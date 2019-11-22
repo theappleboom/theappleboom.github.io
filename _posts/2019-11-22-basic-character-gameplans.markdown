@@ -18,7 +18,7 @@ So I did some thinking, and I realized that if this is really going to be a begi
 </p>
 
 <ul>
-2B
+<b>2B</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -27,7 +27,7 @@ So I did some thinking, and I realized that if this is really going to be a begi
 </ul>
 
 <ul>
-Astaroth
+<b>Astaroth</b>
 <li>4A - his AA is non standard</li>
 <li>4B - his BB is non standard</li>
 <li>Throws</li>
@@ -36,7 +36,7 @@ Astaroth
 </ul>
 
 <ul>
-Amy
+<b>Amy</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -45,7 +45,7 @@ Amy
 </ul>
 
 <ul>
-Azwel
+<b>Azwel</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -54,7 +54,8 @@ Azwel
 </ul>
 
 <ul>
-Cassandra (thanks for the correction Dan Highland!)
+<b>Cassandra</b>
+(thanks for the correction Dan Highland!)
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -63,7 +64,7 @@ Cassandra (thanks for the correction Dan Highland!)
 </ul>
 
 <ul>
-Cervantes
+<b>Cervantes</b>
 <li>AA</li>
 <li>2B - his BB is too unsafe</li>
 <li>Throws</li>
@@ -72,7 +73,7 @@ Cervantes
 </ul>
 
 <ul>
-Geralt
+<b>Geralt</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -81,7 +82,7 @@ Geralt
 </ul>
 
 <ul>
-Groh
+<b>Groh</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -90,7 +91,7 @@ Groh
 </ul>
 
 <ul>
-Hilde
+<b>Hilde</b>
 (this is being posted before she's released, so I'm going off of SCV data)
 <li>AA</li>
 <li>2B - her BB is non standard</li>
@@ -100,7 +101,7 @@ Hilde
 </ul>
 
 <ul>
-Ivy
+<b>Ivy</b>
 <li>A - the second hit of her AA is too unsafe</li>
 <li>2B - her BB is non standard</li>
 <li>Throws</li>
@@ -109,7 +110,7 @@ Ivy
 </ul>
 
 <ul>
-Kilik
+<b>Kilik</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -118,7 +119,7 @@ Kilik
 </ul>
 
 <ul>
-Nightmare
+<b>Nightmare</b>
 <li>A - the second hit of his normal AA is too slow</li>
 <li>2B - his normal BB is too slow</li>
 <li>Throws</li>
@@ -127,7 +128,7 @@ Nightmare
 </ul>
 
 <ul>
-Maxi
+<b>Maxi</b>
 <li>AA</li>
 <li>2B - his normal BB is non standard</li>
 <li>Throws</li>
@@ -136,7 +137,7 @@ Maxi
 </ul>
 
 <ul>
-Mitsurugi
+<b>Mitsurugi</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -145,7 +146,7 @@ Mitsurugi
 </ul>
 
 <ul>
-Raphael
+<b>Raphael</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -154,7 +155,7 @@ Raphael
 </ul>
 
 <ul>
-Seong Mi-na
+<b>Seong Mi-na</b>
 <li>A - the second hit of her normal AA is too unsafe</li>
 <li>B - the second hit of her normal BB is too unsafe</li>
 <li>Throws</li>
@@ -163,7 +164,7 @@ Seong Mi-na
 </ul>
 
 <ul>
-Siegfried
+<b>Siegfried</b>
 <li>A - the second hit of his normal AA is too slow</li>
 <li>2B - his normal BB is too unsafe</li>
 <li>Throws</li>
@@ -172,7 +173,7 @@ Siegfried
 </ul>
 
 <ul>
-Sophitia
+<b>Sophitia</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -181,7 +182,7 @@ Sophitia
 </ul>
 
 <ul>
-Taki
+<b>Taki</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -190,7 +191,7 @@ Taki
 </ul>
 
 <ul>
-Talim
+<b>Talim</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -199,7 +200,8 @@ Talim
 </ul>
 
 <ul>
-Tira (Same for Jolly and Gloomy)
+<b>Tira</b>
+(Same for Jolly and Gloomy)
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -208,7 +210,7 @@ Tira (Same for Jolly and Gloomy)
 </ul>
 
 <ul>
-Voldo
+<b>Voldo</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -217,7 +219,7 @@ Voldo
 </ul>
 
 <ul>
-Xianghua
+<b>Xianghua</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -226,7 +228,7 @@ Xianghua
 </ul>
 
 <ul>
-Yoshimitsu
+<b>Yoshimitsu</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
@@ -235,7 +237,7 @@ Yoshimitsu
 </ul>
 
 <ul>
-Zasalamel
+<b>Zasalamel</b>
 <li>AA</li>
 <li>BB</li>
 <li>Throws</li>
