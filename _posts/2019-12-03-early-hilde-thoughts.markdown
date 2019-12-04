@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Early Hilde Thoughts"
-date:   2019-12-03 17:30:00 -0500
+date:   2019-12-03 19:30:00 -0500
 categories: [hilde]
 tags: [thoughts, unstructured, hilde]
 ---
