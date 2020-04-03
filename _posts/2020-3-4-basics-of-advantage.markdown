@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Basics of Advantage"
+date:   2020-3-4 17:30:00 -0500
+categories: [fundamentals]
+tags: [fundamentals, advantage, disadvantage, theory, basics]
+---
+
+Hey everyone! I've been a bit lax on the blog for a few months as you can tell, but I'm planning on going back to a weekly (at minimum) schedule. Let's just get into this. Today I'm going to go over the absolute basics of the theoretical framework of what I call the Avylon school of thought. Don't worry, I'll get back to gameplans pretty soon.
+
+To win a game, you need to score, whether that's literal points or lowering your opponents health to zero. To score, you need to make an attempt to score, and the chance of that succeeding is based on your advantage. This makes advantage the bedrock of competition. In theoretical terms, advantage can be thought of as a percent chance of a risky action, such as scoring, succeeding. If something is gauranteed, you have a 100% chance of succeeding. If it is impossible, you have a 0% chance. If everything is completely even, you have a 50% chance. The more advantage you have, the better chance you have at succeeding. The less advantage you have, the worse chance you have at succeeding. For simplicity, I usually define basic advantage at 75% and basic disadvantage at 25%. This makes it pretty simple why you want more advantage. With more advantage, you succeed more often.
+
+Now why do I care about succeeding more often? This comes down to the definition of what we consider being good, or skillful, which is the goal of training and self improvement. Being skillful at something means that you succeed at it a lot, and definitely much more than someone who is not skillful. We care about winning many situations and many games in the long run. We do not care as much about any one game in particular. If you do something that has a 25% chance of succeeding once, it is totally possible that you will succeed. If you do something that has a 75% chance of succeeding once, it is totally possible that you will fail. However, due to the Law of Large Numbers, if you do something that has a 25% chance of succeeding a million times, you will only win roughly 250,000 times, but you will win roughly 750,000 times if you take the 75% chance. That's three times as many wins. That's what we care about. That's consistency.
+
+This advantage overview is not complete without mentioning risk, though. Sure, 25% moves are worse than 75% moves by themselves, but if the 25% move costs almost nothing if you fail, and the 75% move costs everything if you fail, the 25% move is actually much better. For example, assuming you choose one move and constantly use that for a game that takes 10 points to win. If a move succeeds 75% of the time, scores 5 points on a success, and your opponent scores 10 points on a failure, you win 56.25% of the time. If a move succeeds 25% of the time, scores 5 points on a success, and your opponent scores 1 point on a failure, you win 80.29% of the time. Risk can seriously matter.
+
+I think that's enough for the basics of advantage. Both because I can't see much more to add and because getting the numbers for those examples involved some really tedious Markov Chains. I hope to build on this in the future to really explore and explain why I subscribe to the Avylon school of thought and what that school of thought really is. See you next time!
