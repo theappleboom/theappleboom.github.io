@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basics of Advantage"
-date:   2020-3-4 17:30:00 -0500
+date:   2020-04-03 17:30:00 -0500
 categories: [fundamentals]
 tags: [fundamentals, advantage, disadvantage, theory, basics]
 ---
