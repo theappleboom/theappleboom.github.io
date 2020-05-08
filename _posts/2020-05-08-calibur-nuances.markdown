@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Calibur Nuances"
+date:   2020-05-08 17:30:00 -0500
+categories: [high level]
+tags: [depth, hilde]
+---
+
+So that didn't happen. I tried to focus on too much at once, and some stuff didn't get done. For better or worse, that's generally been my story. But instead of throwing a fit and quitting, I'm just going to march on and talk about more Soulcalibur stuff.
+
+Today I'm going to go over move nuance. This is a bit harder to pin down because it's, well, nuanced, but let's get into it. One thing I really like about games like Calibur and Tekken is their large redundant move lists. Let's take a game like Pokken as a base line. As Gardevoir, if I want an anti counter option up close, what choice do I have? Only grab, really. Now let's think about Calibur. What choice do I have as Hilde to immediately break through a standing block? Grabs, 2K, FC3K, 1B, 1A, 1K series, 44B, etc. I have a lot of options to choose from, and they all have nuances in how they're different. To really dig into the nuance, let's compare 1A and 1B. They're so incredibly similar lows. i22 vs i20. -14 on block vs -16. Both 0 on hit. 20 damage vs 22. 1% guard damage vs 2%. But there are very key things that really differentiate them. 1A is a horizontal. 1B is a vertical. This means 1A catches step and 1B has reach. Not only does 1B have reach, but it also has nice push back on hit. That means you have an unseeable 0 on hit low that is outside of 2A retaliation range. It's a great set up low, but that doesn't just outclass 1A. 1A is much more reliable to hit with. And them being on A and B separately is crucial for Hilde. As she's charging, she loses access to her buttons, which means that she now has a similar, yet still different, low to 1B to use when she's charging B. Not to mention all of the things these can communicate. The use of 1A or 1B can be an indication that she's charging one or the other buttons, but can also be a trap for those looking for it. The linearity of 1B can get people to step, but that sets them up perfectly to get hit by an A charge. Same for 1A setting up people to get hit with a B charge from a back step. These kinds of nuances are what keep me playing Calibur for years. Hopefully this example is good enough to give you a taste, but it's only a small example. The game is full of things like these.
